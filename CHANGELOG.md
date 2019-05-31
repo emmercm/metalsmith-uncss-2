@@ -3,6 +3,7 @@
 ## v0.1.0 / 2019-05-31
 
 - Added Jest tests.
+- UnCSS filename "banner" turned off by default.
 
 ## v0.0.3 / 2019-05-14
 
