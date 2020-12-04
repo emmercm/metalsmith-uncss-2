@@ -1,4 +1,6 @@
 {
+  "enabled": false,
+
   "extends": [
     "config:base",
     "schedule:monthly"

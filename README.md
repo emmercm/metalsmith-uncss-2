@@ -11,7 +11,9 @@
 [![GitHub](https://badgen.net/badge/emmercm/metalsmith-uncss-2/purple?icon=github)](https://github.com/emmercm/metalsmith-uncss-2)
 [![License](https://badgen.net/github/license/emmercm/metalsmith-uncss-2?color=grey)](https://github.com/emmercm/metalsmith-uncss-2/blob/master/LICENSE)
 
-A Metalsmith plugin to run UnCSS stylesheet optimizer.
+A Metalsmith plugin to run the UnCSS stylesheet optimizer.
+
+⚠️ WARNING: This project has been renamed to [metalsmith-css-unused](https://www.npmjs.com/package/metalsmith-css-unused). Install using [metalsmith-css-unused instead](https://www.npmjs.com/package/metalsmith-css-unused). ⚠️
 
 ## Installation
 
